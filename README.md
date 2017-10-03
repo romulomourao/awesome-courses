@@ -41,6 +41,10 @@ Thank you for your suggestions!
 
 ## Youtube Playlists
 
+### CSS
+
+* [The Net Ninja - CSS Grid Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
+
 ### Javascript
 
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
