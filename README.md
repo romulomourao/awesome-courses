@@ -62,6 +62,11 @@ Thank you for your suggestions!
 #### Swift
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
 
+#### Java
+* [Java Tutorial For Beginners](https://www.youtube.com/watch?v=r59xYe3Vyks&list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al)
+* [Java Programming Tutorial](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PL235DDEE48F7D9DE3)
+* [Learn Java Tutorial](https://www.youtube.com/watch?v=fEApt1B8ycs&list=PLDAA5DE54FB5215EC)
+
 ## Portuguese 
 
 ### Websites
