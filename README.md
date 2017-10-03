@@ -34,7 +34,7 @@ Thank you for your suggestions!
 * [Grok Learning](https://www.groklearning.com)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Lynda.com](https://www.lynda.com/)
-* [Plural Sight](https://www.pluralsight.com/)
+* [Pluralsight](https://www.pluralsight.com/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
