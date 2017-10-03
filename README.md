@@ -20,12 +20,17 @@ Please ensure your pull request adheres to the following guidelines:
 - For Youtube Playlist: Use the following format: `[Channel Name - Playlist Name](link to playlist)`
 - New categories or improvements to the existing categorization are welcome.
 
+### Please Add your playlist to the specific idiom title. Feel free to create one for your idiom
 
 
 
 Thank you for your suggestions!
 
+# English
+
 ## Websites
+
+### English
 
 * [Codecademy](https://www.codecademy.com)
 * [Code School](https://www.codeschool.com/)
@@ -42,6 +47,7 @@ Thank you for your suggestions!
 
 ### Javascript
 
+
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
@@ -53,3 +59,10 @@ Thank you for your suggestions!
 ## Golang
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 * [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
+
+
+# Portuguese 
+
+## Websites
+
+## Youtube Playlists
