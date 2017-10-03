@@ -38,7 +38,6 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 
-
 ## Youtube Playlists
 
 ### Javascript
@@ -50,3 +49,7 @@ Thank you for your suggestions!
 
 * [Jake Day Williams - Ruby Programming Tutorials](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
 * [thenewboston - Ruby Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
+
+## Golang
+* [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
+* [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
