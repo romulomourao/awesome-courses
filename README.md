@@ -27,15 +27,15 @@ Thank you for your suggestions!
 
 ## Websites
 
+
+* [Code School](https://www.codeschool.com/)
 * [Coursera](https://www.coursera.org/)
 * [EDX](https://www.edx.org/)
 * [Khan Academy](https://www.khanacademy.org/)
+* [Lynda.com](https://www.lynda.com/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
-* [Lynda.com](https://www.lynda.com/)
-* [Code School](https://www.codeschool.com/)
-
 
 
 ## Youtube Playlists
