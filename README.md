@@ -33,9 +33,16 @@ Thank you for your suggestions!
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
+* [Codecademy](https://www.codecademy.com)
+* [Grok Learning](https://www.groklearning.com)
 
 
 
 ## Youtube Playlists
+
 ### Javascript
+
+* [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+* [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+
 ### Ruby
