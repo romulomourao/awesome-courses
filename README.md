@@ -86,3 +86,6 @@ Thank you for your suggestions!
 
 ### Youtube Playlists
 
+
+#### Javascript
+* [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
