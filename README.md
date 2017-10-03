@@ -27,10 +27,11 @@ Thank you for your suggestions!
 
 ## Websites
 
-
+* [Codecademy](https://www.codecademy.com)
 * [Code School](https://www.codeschool.com/)
 * [Coursera](https://www.coursera.org/)
 * [EDX](https://www.edx.org/)
+* [Grok Learning](https://www.groklearning.com)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Lynda.com](https://www.lynda.com/)
 * [Treehouse](https://teamtreehouse.com/)
@@ -39,7 +40,12 @@ Thank you for your suggestions!
 
 
 ## Youtube Playlists
+
 ### Javascript
+
+* [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+* [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
 ### Ruby
 
 * [Jake Day Williams - Ruby Programming Tutorials](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
