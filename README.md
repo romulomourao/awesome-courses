@@ -27,14 +27,14 @@ Thank you for your suggestions!
 
 ## Websites
 
+* [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org/)
 * [EDX](https://www.edx.org/)
+* [Grok Learning](https://www.groklearning.com)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
-* [Codecademy](https://www.codecademy.com)
-* [Grok Learning](https://www.groklearning.com)
 
 
 
@@ -42,7 +42,7 @@ Thank you for your suggestions!
 
 ### Javascript
 
-* [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+* [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 ### Ruby
