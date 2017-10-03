@@ -71,5 +71,8 @@ Thank you for your suggestions!
 
 ### Websites
 
+
+* [Quaddro](http://www.quaddro.com.br)
+
 ### Youtube Playlists
 
