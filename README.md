@@ -47,12 +47,25 @@ Thank you for your suggestions!
 #### Angular
 
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
+* [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
+
+#### EcmaScript (ES)
+
+* [The Net Ninja - JavaScript ES6 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
+
+#### GitHub
+
+* [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 #### Javascript
 
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 * [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
+
+#### JQuery
+
+* [The Net Ninja - jQuery Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4)
 
 #### Python
 
@@ -66,11 +79,17 @@ Thank you for your suggestions!
 #### React
 
 * [Awais Mirza - React JS Tutorial for beginners 2017](https://www.youtube.com/playlist?list=PLz5rnvLVJX5XUcGdV0qOyHiFo9l_iyuij)
+* [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
 
 #### React-Native
 
 * [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
 * [Michael Nissen - React Native - Build An iPhone App From Scratch](https://www.youtube.com/playlist?list=PLH66a98tGFoA6pBg8MW-1ulu-CkCadmrZ)
+
+#### Redux
+
+* [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+* [CodeWithTim - Redux Made Easy](https://www.youtube.com/playlist?list=PLoAsubXIl8uKWBxNNZL_-OuXtcu82-aFN)
 
 #### Golang
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
@@ -78,6 +97,14 @@ Thank you for your suggestions!
 
 #### Swift
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
+
+#### Vue
+
+* [The Net Ninja - Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+
+#### Vuex
+
+* [The Net Ninja - Vuex Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2)
 
 ## Portuguese 
 
