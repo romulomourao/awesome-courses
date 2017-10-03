@@ -4,6 +4,7 @@
 
 - [Contribution Guidelines](#contribution-guidelines)
 - [List of Websites](#websites)
+- [List of Books](#books)
 - [List of Youtube Playlists](#youtube-playlists)
 # Contribution Guidelines
 
@@ -44,6 +45,13 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 
+### Books
+
+#### Ruby
+
+* [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
+
+
 ### Youtube Playlists
 
 #### Javascript
@@ -67,6 +75,7 @@ Thank you for your suggestions!
 #### Swift
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
 
+---
 
 ## Portuguese 
 
