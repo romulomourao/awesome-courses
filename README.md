@@ -80,6 +80,8 @@ Thank you for your suggestions!
 #### Python
 
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
+* [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
 
 #### Ruby
 
@@ -105,10 +107,8 @@ Thank you for your suggestions!
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 * [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 
-#### Python
-* [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-
 #### Swift
+
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
 
 #### Vue
