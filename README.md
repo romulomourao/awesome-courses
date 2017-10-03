@@ -44,16 +44,33 @@ Thank you for your suggestions!
 
 ### Youtube Playlists
 
-#### Javascript
+#### Angular
 
+* [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
+
+#### Javascript
 
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+* [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
+
+#### Python
+
+* [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
 
 #### Ruby
 
 * [Jake Day Williams - Ruby Programming Tutorials](https://www.youtube.com/playlist?list=PLMK2xMz5H5Zv8eC8b4K6tMaE1-Z9FgSOp)
 * [thenewboston - Ruby Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
+
+#### React
+
+* [Awais Mirza - React JS Tutorial for beginners 2017](https://www.youtube.com/playlist?list=PLz5rnvLVJX5XUcGdV0qOyHiFo9l_iyuij)
+
+#### React-Native
+
+* [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
+* [Michael Nissen - React Native - Build An iPhone App From Scratch](https://www.youtube.com/playlist?list=PLH66a98tGFoA6pBg8MW-1ulu-CkCadmrZ)
 
 #### Golang
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
