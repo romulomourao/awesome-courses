@@ -38,6 +38,7 @@ Thank you for your suggestions!
 * [Grok Learning](https://www.groklearning.com)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Lynda.com](https://www.lynda.com/)
+* [PLuralSight](https://www.pluralsight.com/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
@@ -61,6 +62,9 @@ Thank you for your suggestions!
 
 #### Swift
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
+
+#### Python
+* [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 ## Portuguese 
 
