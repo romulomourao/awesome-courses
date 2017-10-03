@@ -44,6 +44,11 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 
+### Books
+
+* [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
+
+
 ### Youtube Playlists
 
 #### Javascript
