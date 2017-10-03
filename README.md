@@ -4,6 +4,7 @@
 
 - [Contribution Guidelines](#contribution-guidelines)
 - [List of Websites](#websites)
+- [List of Books](#books)
 - [List of Youtube Playlists](#youtube-playlists)
 # Contribution Guidelines
 
@@ -35,12 +36,21 @@ Thank you for your suggestions!
 * [Code School](https://www.codeschool.com/)
 * [Coursera](https://www.coursera.org/)
 * [EDX](https://www.edx.org/)
+* [Free Code Camp](https://www.freecodecamp.org/)
 * [Grok Learning](https://www.groklearning.com)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Lynda.com](https://www.lynda.com/)
+* [Pluralsight](https://www.pluralsight.com/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
+
+### Books
+
+#### Ruby
+
+* [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
+
 
 ### Youtube Playlists
 
@@ -95,6 +105,9 @@ Thank you for your suggestions!
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 * [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 
+#### Python
+* [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+
 #### Swift
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
 
@@ -109,6 +122,9 @@ Thank you for your suggestions!
 ## Portuguese 
 
 ### Websites
+
+
+* [Quaddro](http://www.quaddro.com.br)
 
 ### Youtube Playlists
 
