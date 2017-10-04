@@ -57,11 +57,15 @@ Thank you for your suggestions!
 
 ### Youtube Playlists
 
+#### Android
+
+* [TheNewBoston - Android App Development - Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+
 
 #### Angular
 
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
-* [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
+* [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)>>>>>>> master
 
 #### CSS
 
@@ -135,11 +139,10 @@ Thank you for your suggestions!
 
 ### Websites
 
-
 * [Quaddro](http://www.quaddro.com.br)
 
 ### Youtube Playlists
 
-
 #### Javascript
 * [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+
