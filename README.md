@@ -38,7 +38,7 @@ Thank you for your suggestions!
 
 ## Youtube Playlists
 
-* [TheNewBoston - Android App Development - Beginners](https://thenewboston.com/videos.php?cat=278)
+* [TheNewBoston - Android App Development - Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
 
 ### Javascript
 ### Ruby
