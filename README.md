@@ -130,6 +130,7 @@ Thank you for your suggestions!
 #### Vue
 
 * [The Net Ninja - Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+* [Academind - Vue.js + Vuetify + Firebase Project - Devmeetup](https://www.youtube.com/watch?v=FXY1UyQfSFw&list=PL55RiY5tL51qxUbODJG9cgrsVd7ZHbPrt)
 
 #### Vuex
 
