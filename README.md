@@ -135,6 +135,10 @@ Thank you for your suggestions!
 
 * [The Net Ninja - Vuex Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2)
 
+#### Webpack
+
+* [Academind - Webpack 2 Basics](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
+
 ## Portuguese 
 
 ### Websites
