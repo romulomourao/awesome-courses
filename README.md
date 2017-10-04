@@ -57,10 +57,18 @@ Thank you for your suggestions!
 
 ### Youtube Playlists
 
+
 #### Angular
 
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
 * [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
+
+#### CSS
+
+* [The Net Ninja - CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+* [The Net Ninja - CSS Flexbox Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
+* [The Net Ninja - CSS Grid Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
+* [The Net Ninja - CSS Positioning Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh)
 
 #### EcmaScript (ES)
 
