@@ -67,6 +67,10 @@ Thank you for your suggestions!
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
 * [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)>>>>>>> master
 
+###Android
+
+* [TheNewBoston - Android App Development - Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+
 #### CSS
 
 * [The Net Ninja - CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
