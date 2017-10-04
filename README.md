@@ -108,7 +108,6 @@ Thank you for your suggestions!
 
 * [Awais Mirza - React JS Tutorial for beginners 2017](https://www.youtube.com/playlist?list=PLz5rnvLVJX5XUcGdV0qOyHiFo9l_iyuij)
 * [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
-* [Academind - ReactJS Basics](https://www.youtube.com/watch?v=JPT3bFIwJYA&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
 
 #### React-Native
 
@@ -135,6 +134,10 @@ Thank you for your suggestions!
 #### Vuex
 
 * [The Net Ninja - Vuex Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2)
+
+#### Webpack
+
+* [Academind - Webpack 2 Basics](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
 
 ## Portuguese 
 
