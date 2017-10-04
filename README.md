@@ -50,13 +50,14 @@ Thank you for your suggestions!
 
 ### Books
 
-#### Ruby
+#### Javascript
+* [Learning JavaScript - O'REILLY](http://www.stilson.net/documentation/javascript.pdf)
 
+#### Ruby
 * [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
 
 
 ### Youtube Playlists
-
 
 #### Angular
 
