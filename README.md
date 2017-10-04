@@ -37,6 +37,7 @@ Thank you for your suggestions!
 * [Coursera](https://www.coursera.org/)
 * [EDX](https://www.edx.org/)
 * [Free Code Camp](https://www.freecodecamp.org/)
+* [Game From Scratch](http://www.gamefromscratch.com/)
 * [Grok Learning](https://www.groklearning.com)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Hacksplaining](https://www.hacksplaining.com/)
@@ -81,6 +82,10 @@ Thank you for your suggestions!
 #### GitHub
 
 * [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
+#### Java
+
+* [Gamefromscratch - LibGDX Video Tutorial Series](https://www.youtube.com/watch?v=Huifd-C2KrI&list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
 
 #### Javascript
 
