@@ -44,6 +44,7 @@ Thank you for your suggestions!
 * [Linux Academy](https://linuxacademy.com/)
 * [Lynda.com](https://www.lynda.com/)
 * [Pluralsight](https://www.pluralsight.com/)
+* [Sonar Learning](http://www.sonarlearning.co.uk/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
