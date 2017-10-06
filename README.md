@@ -61,6 +61,7 @@ Thank you for your suggestions!
 #### Android
 
 * [TheNewBoston - Android App Development - Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+* [ProgrammingKnowledge - Android Studio Tutorial for Beginners (Step by Step)](https://www.youtube.com/watch?v=EknEIzswvC0&list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E)
 
 
 #### Angular
