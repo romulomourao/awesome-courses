@@ -47,6 +47,7 @@ Thank you for your suggestions!
 * [Treehouse](https://teamtreehouse.com/)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
+* [Egghead.io](https://egghead.io/)
 
 ### Books
 
