@@ -71,6 +71,7 @@ Thank you for your suggestions!
 #### Android
 
 * [TheNewBoston - Android App Development - Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+* [Android at Google I/O 2017](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc-odHd6XEaf7ykfsosYyCKp)
 
 
 #### Angular
