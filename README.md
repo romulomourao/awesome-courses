@@ -58,7 +58,7 @@ Thank you for your suggestions!
 * [Tutorials Point](http://www.tutorialspoint.com)
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
-* [URI Online Judge](www.urionlinejudge.com.br)
+* [URI Online Judge](https://www.urionlinejudge.com)
 
 ### Books
 
