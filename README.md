@@ -94,6 +94,9 @@ Thank you for your suggestions!
 
 * [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
+#### Gulp
+* [LevelUpTuts - Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
+
 #### Javascript
 
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
