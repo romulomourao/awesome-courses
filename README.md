@@ -34,6 +34,7 @@ Thank you for your suggestions!
 * [Alison](https://alison.com)
 * [Class Central](https://www.class-central.com)
 * [Codecademy](https://www.codecademy.com)
+* [Codeplace](https://www.codeplace.com/)
 * [Code School](https://www.codeschool.com/)
 * [Coursera](https://www.coursera.org/)
 * [DataCamp](https://www.datacamp.com)
