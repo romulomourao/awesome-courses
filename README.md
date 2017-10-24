@@ -100,6 +100,7 @@ Thank you for your suggestions!
 #### Javascript
 
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
+* [Fun Fun Function - Object Creation in Javascript](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 * [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
 
