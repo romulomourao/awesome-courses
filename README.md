@@ -36,6 +36,7 @@ Thank you for your suggestions!
 * [Codecademy](https://www.codecademy.com)
 * [Codeplace](https://www.codeplace.com/)
 * [Code School](https://www.codeschool.com/)
+* [CodinGame](https://www.codingame.com)
 * [Coursera](https://www.coursera.org/)
 * [DataCamp](https://www.datacamp.com)
 * [Edx](https://www.edx.org/)
