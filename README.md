@@ -53,6 +53,7 @@ Thank you for your suggestions!
 * [Open Culture](http://www.openculture.com)
 * [Open Source Society University](ossu.firebaseapp.co)
 * [Pluralsight](https://www.pluralsight.com/)
+* [SitePoint](https://www.sitepoint.com/)
 * [Sonar Learning](http://www.sonarlearning.co.uk/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Tutorials Point](http://www.tutorialspoint.com)
