@@ -41,6 +41,7 @@ Thank you for your suggestions!
 * [DataCamp](https://www.datacamp.com)
 * [Edx](https://www.edx.org/)
 * [Egghead.io](https://egghead.io/)
+* [Exercism](http://www.exercism.io)
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Future Learn](https://www.futurelearn.com)
 * [Grok Learning](https://www.groklearning.com)
