@@ -167,6 +167,7 @@ Thank you for your suggestions!
 
 * [Code Saga](https://codesaga.com.br/)
 * [Quaddro](http://www.quaddro.com.br)
+* [Curso Carlos Ribeiro](http://www.carlosribeiro.com/)
 
 ### Youtube Playlists
 
