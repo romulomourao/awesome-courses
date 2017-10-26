@@ -32,6 +32,7 @@ Thank you for your suggestions!
 ### Websites
 
 * [Alison](https://alison.com)
+* [Checkio](https://checkio.org/)
 * [Class Central](https://www.class-central.com)
 * [Codecademy](https://www.codecademy.com)
 * [Codeplace](https://www.codeplace.com/)
