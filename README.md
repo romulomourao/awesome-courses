@@ -38,6 +38,7 @@ Thank you for your suggestions!
 * [Code School](https://www.codeschool.com/)
 * [CodinGame](https://www.codingame.com)
 * [Coursera](https://www.coursera.org/)
+* [Dash](https://dash.generalassemb.ly/)
 * [DataCamp](https://www.datacamp.com)
 * [Edx](https://www.edx.org/)
 * [Egghead.io](https://egghead.io/)
