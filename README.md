@@ -179,5 +179,6 @@ Thank you for your suggestions!
 * [Codecasts - Introdução ao Firebase](https://www.youtube.com/watch?v=cVu-zJyDVzw&list=PLy5T05I_eQYPqGy_SoqZ1VGrJMwo_duok)
 
 #### Javascript
+* [Codecasts - Fast & Furious ES6](https://www.youtube.com/watch?v=yRr8Wo4XfYY&list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe)
 * [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 
