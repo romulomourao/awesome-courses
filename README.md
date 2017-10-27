@@ -35,6 +35,7 @@ Thank you for your suggestions!
 * [Checkio](https://checkio.org/)
 * [Class Central](https://www.class-central.com)
 * [Codecademy](https://www.codecademy.com)
+* [CodeFree Startup](https://codefree.co/)
 * [Codeplace](https://www.codeplace.com/)
 * [Code School](https://www.codeschool.com/)
 * [CodinGame](https://www.codingame.com)
