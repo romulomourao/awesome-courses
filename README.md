@@ -133,6 +133,7 @@ Thank you for your suggestions!
 
 #### React
 
+* [Academind - ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
 * [Awais Mirza - React JS Tutorial for beginners 2017](https://www.youtube.com/playlist?list=PLz5rnvLVJX5XUcGdV0qOyHiFo9l_iyuij)
 * [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
 
