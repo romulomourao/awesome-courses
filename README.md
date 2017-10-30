@@ -119,6 +119,11 @@ Thank you for your suggestions!
 
 * [The Net Ninja - jQuery Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4)
 
+
+#### Node.js
+
+* [Academind - Node.js Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
+
 #### Python
 
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
