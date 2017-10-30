@@ -178,6 +178,9 @@ Thank you for your suggestions!
 
 * [Code Saga](https://codesaga.com.br/)
 * [Quaddro](http://www.quaddro.com.br)
+
+### Livros
+
 * [Pro Git](https://git-scm.com/book/pt-br/v1)
 
 ### Youtube Playlists
