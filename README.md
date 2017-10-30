@@ -181,4 +181,5 @@ Thank you for your suggestions!
 #### Javascript
 * [Codecasts - Fast & Furious ES6](https://www.youtube.com/watch?v=yRr8Wo4XfYY&list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe)
 * [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+* [Codecasts - Módulos JavaScript](https://www.youtube.com/watch?v=fPuXy-uTy3Y&list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL)
 
