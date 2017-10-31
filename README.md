@@ -4,8 +4,9 @@
 
 - [Contribution Guidelines](#contribution-guidelines)
 - [List of Websites](#websites)
-- [List of Books](#books)
+- [List of Youtube Channels](#youtube-channels)
 - [List of Youtube Playlists](#youtube-playlists)
+- [List of Books](#books)
 # Contribution Guidelines
 
 ### What kind of site/playlist can I add?
@@ -71,11 +72,11 @@ Thank you for your suggestions!
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
 
-### Books
 
-#### Ruby
+### Youtube Channels
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 
-* [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
 
 
 ### Youtube Playlists
@@ -172,6 +173,14 @@ Thank you for your suggestions!
 #### Webpack
 
 * [Academind - Webpack 2 Basics](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
+
+### Books
+
+#### Ruby
+
+* [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
+
+--- 
 
 ## Portuguese 
 
