@@ -123,15 +123,15 @@ Thank you for your suggestions!
 
 #### Javascript
 
+* [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [Fun Fun Function - Object Creation in Javascript](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-* [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
 
 #### JQuery
 
-* [The Net Ninja - jQuery Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4)
 * [DevTips - Learn jQuery in 15 minutes](https://www.youtube.com/watch?v=Pt49y1gm0jw&list=PLqGj3iMvMa4KOekRWjjajinzlRK879Ksn)
+* [The Net Ninja - jQuery Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4)
 
 
 #### Node.js
@@ -141,8 +141,9 @@ Thank you for your suggestions!
 #### Python
 
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
-* [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+* [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+
 
 
 #### Ruby
@@ -167,8 +168,9 @@ Thank you for your suggestions!
 
 #### Redux
 
-* [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 * [CodeWithTim - Redux Made Easy](https://www.youtube.com/playlist?list=PLoAsubXIl8uKWBxNNZL_-OuXtcu82-aFN)
+* [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+
 
 #### Golang
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
@@ -216,8 +218,8 @@ Thank you for your suggestions!
 
 #### Javascript
 * [Codecasts - Fast & Furious ES6](https://www.youtube.com/watch?v=yRr8Wo4XfYY&list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe)
-* [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 * [Codecasts - Módulos JavaScript](https://www.youtube.com/watch?v=fPuXy-uTy3Y&list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL)
+* [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 
 #### Ruby on Rails
 * [Jackson Pires - Ruby on Rails para iniciantes](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
