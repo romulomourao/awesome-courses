@@ -76,6 +76,7 @@ Thank you for your suggestions!
 ### Youtube Channels
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 
 
