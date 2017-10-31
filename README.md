@@ -193,3 +193,5 @@ Thank you for your suggestions!
 * [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 * [Codecasts - Módulos JavaScript](https://www.youtube.com/watch?v=fPuXy-uTy3Y&list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL)
 
+#### Ruby on Rails
+* [Jackson Pires - Ruby on Rails para iniciantes](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
