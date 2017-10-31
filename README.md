@@ -75,10 +75,10 @@ Thank you for your suggestions!
 
 ### Youtube Channels
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
-* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
-* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Amy Codes](https://www.youtube.com/channel/UCms28DbROfiYP2kBRpKTyyw/)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners/)
+* [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
 
 
@@ -101,11 +101,11 @@ Thank you for your suggestions!
 
 #### CSS
 
+* [DevTips - CSS Animations Series](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 * [The Net Ninja - CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
 * [The Net Ninja - CSS Flexbox Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
 * [The Net Ninja - CSS Grid Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 * [The Net Ninja - CSS Positioning Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh)
-* [DevTips - CSS Animations Series](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 
 
 #### EcmaScript (ES)
@@ -114,8 +114,9 @@ Thank you for your suggestions!
 
 #### GitHub
 
-* [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 * [DevTips - GitHubs for Noobs](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
+* [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+
 
 #### Gulp
 * [LevelUpTuts - Learning Gulp](https://www.youtube.com/playlist?list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
