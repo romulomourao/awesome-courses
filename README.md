@@ -77,6 +77,8 @@ Thank you for your suggestions!
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [Amy Codes](https://www.youtube.com/channel/UCms28DbROfiYP2kBRpKTyyw/)
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners/)
 
 
 
