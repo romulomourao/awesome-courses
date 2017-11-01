@@ -80,6 +80,7 @@ Thank you for your suggestions!
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers)
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
+* [thiengo.com.br](https://www.thiengo.com.br/android)
 
 
 
@@ -106,6 +107,7 @@ Thank you for your suggestions!
 * [The Net Ninja - CSS Flexbox Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
 * [The Net Ninja - CSS Grid Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 * [The Net Ninja - CSS Positioning Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh)
+* [How to Build a Responsive Website From Start to Finish](https://www.youtube.com/playlist?list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI)
 
 
 #### EcmaScript (ES)
@@ -127,6 +129,7 @@ Thank you for your suggestions!
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [Fun Fun Function - Object Creation in Javascript](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+* [Javascript Testing](https://br.udacity.com/course/javascript-testing--ud549)
 
 #### JQuery
 
