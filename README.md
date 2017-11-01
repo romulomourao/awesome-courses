@@ -203,9 +203,9 @@ Thank you for your suggestions!
 
 * [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
 
----
+----
 
-## Portuguese
+### Portuguese
 
 ### Websites
 
