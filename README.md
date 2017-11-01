@@ -141,6 +141,7 @@ Thank you for your suggestions!
 #### Python
 
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
+* [Derek Banas - Learn to Program](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
@@ -179,6 +180,10 @@ Thank you for your suggestions!
 #### Swift
 
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
+
+#### Unity
+
+* [Derek Banas - How to Make Video Games (Unity)](https://www.youtube.com/watch?v=Yk-S8GKNKxM&list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ)
 
 #### Vue
 
