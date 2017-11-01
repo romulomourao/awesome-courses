@@ -75,9 +75,9 @@ Thank you for your suggestions!
 
 ### Youtube Channels
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
-* [Amy Codes](https://www.youtube.com/channel/UCms28DbROfiYP2kBRpKTyyw/)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners/)
+* [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers)
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
 
