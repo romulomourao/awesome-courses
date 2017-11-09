@@ -53,6 +53,7 @@ Thank you for your suggestions!
 * [Future Learn](https://www.futurelearn.com)
 * [Grok Learning](https://www.groklearning.com)
 * [Hacker Rank](https://www.hackerrank.com/)
+* [Hackr.io](https://hackr.io/)
 * [Hacksplaining](https://www.hacksplaining.com/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Linux Academy](https://linuxacademy.com/)
