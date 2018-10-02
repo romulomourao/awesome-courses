@@ -229,7 +229,14 @@ Thank you for your suggestions!
 
 * [Pro Git](https://git-scm.com/book/pt-br/v1)
 
+### Youtube Channels
+
+* [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
+
 ### Youtube Playlists
+
+#### NodeJS
+* [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 
 #### Firebase
 * [Codecasts - Introdução ao Firebase](https://www.youtube.com/watch?v=cVu-zJyDVzw&list=PLy5T05I_eQYPqGy_SoqZ1VGrJMwo_duok)
