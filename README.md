@@ -120,6 +120,13 @@ Thank you for your suggestions!
 
 * [The Net Ninja - JavaScript ES6 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gKfw25slm4CUDUcM_sXdml)
 
+#### Flutter
+
+* [Flutter.io](https://flutter.io/tutorials/)
+* [Academind - Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
+* [Bram Vanbilsen - Flutter Crash Course - Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE)
+
+
 #### GitHub
 
 * [DevTips - GitHubs for Noobs](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
