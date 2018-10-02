@@ -32,6 +32,7 @@ Thank you for your suggestions!
 
 ### Websites
 
+* [A Cloud Guru](https://acloud.guru)
 * [Alison](https://alison.com)
 * [Checkio](https://checkio.org/)
 * [Class Central](https://www.class-central.com)
@@ -73,7 +74,7 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
-* [A Cloud Guru](https://acloud.guru)
+
 
 
 ### Youtube Channels
