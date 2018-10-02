@@ -73,6 +73,7 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
+* [A Cloud Guru](https://acloud.guru)
 
 
 ### Youtube Channels
@@ -211,9 +212,9 @@ Thank you for your suggestions!
 
 * [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
 
---- 
+---
 
-## Portuguese 
+## Portuguese
 
 ### Websites
 
