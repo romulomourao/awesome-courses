@@ -49,6 +49,7 @@ Thank you for your suggestions!
 * [Edx](https://www.edx.org/)
 * [Egghead.io](https://egghead.io/)
 * [Exercism](http://www.exercism.io)
+* [EXLskills](https://exlskills.com/)
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Future Learn](https://www.futurelearn.com)
 * [Grok Learning](https://www.groklearning.com)
