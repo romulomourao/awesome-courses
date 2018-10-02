@@ -73,6 +73,8 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
+* [Online Free Course](https://www.onlinefreecourse.net/node-js-advanced-concepts-udemy-free-download/)
+
 
 
 ### Youtube Channels
@@ -86,8 +88,7 @@ Thank you for your suggestions!
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
-* [The Coding Train](https://www.youtube.com/user/shiffman)
-
+* [The Coding Train](https://www.youtube.com/user/shihttps://www.youtube.com/user/shiffman)
 
 
 
@@ -124,6 +125,8 @@ Thank you for your suggestions!
 
 * [DevTips - GitHubs for Noobs](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
 * [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+* [Git Guide for beginners](https://github.com/chhavip/Git-Guide)
+
 
 
 #### Gulp
