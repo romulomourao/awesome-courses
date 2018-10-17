@@ -236,6 +236,7 @@ Thank you for your suggestions!
 ### Websites
 
 * [Code Saga](https://codesaga.com.br/)
+* [Code Studio](https://studio.code.org/courses)
 * [Quaddro](http://www.quaddro.com.br)
 * [Origamid](https://www.origamid.com/)
 
