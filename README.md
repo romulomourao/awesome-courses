@@ -237,6 +237,7 @@ Thank you for your suggestions!
 * [Code Saga](https://codesaga.com.br/)
 * [Quaddro](http://www.quaddro.com.br)
 * [Origamid](https://www.origamid.com/)
+* [Code Studio](https://studio.code.org/courses)
 
 ### Livros
 
