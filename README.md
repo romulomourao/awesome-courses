@@ -80,7 +80,9 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
-
+* [NetworkLessons](https://networklessons.com)
+* [Visualizing Git](http://git-school.github.io/visualizing-git)
+* [Learn Git Branching](https://learngitbranching.js.org)
 
 
 ### Youtube Channels
@@ -107,6 +109,7 @@ Thank you for your suggestions!
 #### Android
 
 * [TheNewBoston - Android App Development - Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+* [Derek Banas - Android Development for Beginners](https://www.youtube.com/watch?v=ugWu3gyte4I&list=PLGLfVvz_LVvSKgnFm8-6Fz1cd6zt_KxTC)
 
 
 #### Angular
