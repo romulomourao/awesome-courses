@@ -119,7 +119,7 @@ Thank you for your suggestions!
 * [Derek Banas - C# Tutorial](https://www.youtube.com/watch?v=0p0JLFZj2C8&list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa)
 
 #### CSS
-
+* [Academind - Understanding CSS](https://www.youtube.com/watch?v=wmAP2xvNs08&list=PL55RiY5tL51q6KKXoA0_CIskaTSJEM1fN&ab_channel=Academind)
 * [DevTips - CSS Animations Series](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
 * [The Net Ninja - CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
 * [The Net Ninja - CSS Flexbox Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
