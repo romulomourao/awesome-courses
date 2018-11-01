@@ -250,6 +250,9 @@ Thank you for your suggestions!
 
 ### Youtube Playlists
 
+#### CSS
+[CSS Castshow - Desenhando com CSS](https://www.youtube.com/playlist?list=PLgcWRW66amTmI5ubVF6RFhfIDC8tYXh_h)
+
 #### NodeJS
 * [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 
