@@ -47,6 +47,7 @@ Thank you for your suggestions!
 * [Codewars](https://www.codewars.com/)
 * [CodinGame](https://www.codingame.com)
 * [Coursera](https://www.coursera.org/)
+* [CSS Tricks](https://css-tricks.com/)
 * [Dash](https://dash.generalassemb.ly/)
 * [DataCamp](https://www.datacamp.com)
 * [Edx](https://www.edx.org/)
@@ -74,6 +75,7 @@ Thank you for your suggestions!
 * [Programiz](https://www.programiz.com/)
 * [SitePoint](https://www.sitepoint.com/)
 * [Sonar Learning](http://www.sonarlearning.co.uk/)
+* [Tania Rascia's Tutorials](https://www.taniarascia.com/blog/)
 * [Traversy Media](https://www.traversymedia.com/)
 * [Treehouse](https://teamtreehouse.com/)
 * [Tutorials Point](http://www.tutorialspoint.com)
@@ -121,6 +123,7 @@ Thank you for your suggestions!
 #### CSS
 
 * [DevTips - CSS Animations Series](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+* [Flexbox Froggy](http://flexboxfroggy.com/)
 * [The Net Ninja - CSS Animation Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
 * [The Net Ninja - CSS Flexbox Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG)
 * [The Net Ninja - CSS Grid Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
@@ -150,10 +153,13 @@ Thank you for your suggestions!
 #### Javascript
 
 * [Awais Mirza - complete javascript tutorials for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VdVNddvRTj68X6miAWQ5pz)
+* [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [freeCodeCamp - JavaScript Basics](https://www.youtube.com/playlist?list=PLWKjhJtqVAbk2qRZtWSzCIN38JC_NdhW5)
 * [Fun Fun Function - Object Creation in Javascript](https://www.youtube.com/watch?v=GhbhD1HR5vk&list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
-*[Fun Fun Function - Iterators and Generators in JS] (https://www.youtube.com/playlist?list=PL0zVEGEvSaeG2T5n8FuPGb11JHea7idb9) 
+* [Fun Fun Function - Iterators and Generators in JS](https://www.youtube.com/playlist?list=PL0zVEGEvSaeG2T5n8FuPGb11JHea7idb9) 
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+* [You Don't Know JS]()
+
 
 #### JQuery
 
