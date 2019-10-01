@@ -240,6 +240,7 @@ Thank you for your suggestions!
 * [Code Studio](https://studio.code.org/courses)
 * [Quaddro](http://www.quaddro.com.br)
 * [Origamid](https://www.origamid.com/)
+* [Rocketseat](https://rocketseat.com.br/)
 
 ### Livros
 
@@ -248,6 +249,7 @@ Thank you for your suggestions!
 ### Youtube Channels
 
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
+* [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
 ### Youtube Playlists
 
