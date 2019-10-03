@@ -257,6 +257,7 @@ Thank you for your suggestions!
 
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+* [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 
 ### Youtube Playlists
 
