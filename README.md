@@ -264,6 +264,7 @@ Thank you for your suggestions!
 * [CSS Castshow - Desenhando com CSS](https://www.youtube.com/playlist?list=PLgcWRW66amTmI5ubVF6RFhfIDC8tYXh_h)
 
 #### NodeJS
+* [Rocketseat - NodeJS](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei)
 * [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 
 #### Firebase
