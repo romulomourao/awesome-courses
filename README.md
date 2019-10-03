@@ -263,6 +263,9 @@ Thank you for your suggestions!
 #### CSS
 * [CSS Castshow - Desenhando com CSS](https://www.youtube.com/playlist?list=PLgcWRW66amTmI5ubVF6RFhfIDC8tYXh_h)
 
+### Docker
+* [Rocketseat - Docker](https://www.youtube.com/watch?v=AVNADGzXrrQ&list=PL85ITvJ7FLojBAbkjBKs14ghxyqh-OHYj)
+
 #### NodeJS
 * [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 
