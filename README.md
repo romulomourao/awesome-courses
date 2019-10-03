@@ -275,5 +275,8 @@ Thank you for your suggestions!
 * [Codecasts - Módulos JavaScript](https://www.youtube.com/watch?v=fPuXy-uTy3Y&list=PLy5T05I_eQYNs5FHlBGLyUA1GP7LEIcUL)
 * [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 
+#### React JS
+* [Rocketseat - ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI)
+
 #### Ruby on Rails
 * [Jackson Pires - Ruby on Rails para iniciantes](https://www.youtube.com/watch?v=ZHPondVB9RQ&list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP)
