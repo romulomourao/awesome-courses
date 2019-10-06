@@ -103,6 +103,7 @@ Thank you for your suggestions!
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
+* [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 
 
 
@@ -117,10 +118,17 @@ Thank you for your suggestions!
 
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
 * [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
+* [kudvenkat - Angular 6 tutorial for beginners](https://www.youtube.com/watch?v=CusfUmB6mkY&list=PL6n9fhu94yhWNJaDgh0mfae_9xoQ4E_Zj)
 
 #### C#
 
 * [Derek Banas - C# Tutorial](https://www.youtube.com/watch?v=0p0JLFZj2C8&list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa)
+* [kudvenkat - C# Tutorials For Beginners](https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105)
+
+#### AspNet
+
+* [kudvenkat - ASP.NET core tutorial for beginners](https://www.youtube.com/watch?v=4IgC2Q5-yDE&list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU)
+* [kudvenkat - ASP.NET tutorial for beginners](https://www.youtube.com/watch?v=3AYoipyqOkQ&list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo)
 
 #### CSS
 
@@ -183,6 +191,7 @@ Thank you for your suggestions!
 #### Design Patterns in Object Oriented Programming
 
 * [Christopher Okhravi - Design Patterns](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+* [kudvenkat - Design Patterns tutorial for beginners](https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd)
 
 
 #### Game Development
