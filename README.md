@@ -103,6 +103,11 @@ Thank you for your suggestions!
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
+<<<<<<< Updated upstream
+=======
+* [LINUXtips]https://www.youtube.com/channel/UCJnKVGmXRXrH49Tvrx5X0Sw
+* [George Schott]https://www.youtube.com/playlist?list=PLifX7FLW45Ncn-YnaBPSsVz2HYsW8mfAX
+>>>>>>> Stashed changes
 
 
 
