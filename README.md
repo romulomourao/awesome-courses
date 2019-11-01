@@ -263,6 +263,7 @@ Thank you for your suggestions!
 ### Livros
 
 * [Pro Git](https://git-scm.com/book/pt-br/v1)
+* [Ruby on Rails: Coloque sua aplicação web nos trilhos](https://www.amazon.com.br/Ruby-Rails-Coloque-aplica%C3%A7%C3%A3o-trilhos-ebook/dp/B00VAALQ9I)
 
 ### Youtube Channels
 
