@@ -95,6 +95,7 @@ Thank you for your suggestions!
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+* [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners/)
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers)
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
