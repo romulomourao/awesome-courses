@@ -83,7 +83,7 @@ Thank you for your suggestions!
 * [Udacity](https://www.udacity.com/)
 * [Udemy](https://www.udemy.com)
 * [URI Online Judge](https://www.urionlinejudge.com)
-* [W3schools] (https://www.w3schools.com/)
+* [W3schools](https://www.w3schools.com/)
 
 
 
