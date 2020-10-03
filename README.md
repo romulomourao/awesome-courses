@@ -259,6 +259,7 @@ Thank you for your suggestions!
 * [Quaddro](http://www.quaddro.com.br)
 * [Origamid](https://www.origamid.com/)
 * [Rocketseat](https://rocketseat.com.br/)
+* [Solyd](https://solyd.com.br/treinamentos/)
 
 ### Livros
 
