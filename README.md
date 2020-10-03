@@ -44,6 +44,7 @@ Thank you for your suggestions!
 * [CodeFree Startup](https://codefree.co/)
 * [Codeplace](https://www.codeplace.com/)
 * [Code School](https://www.codeschool.com/)
+* [Codesignal](https://codesignal.com/)
 * [Codewars](https://www.codewars.com/)
 * [CodinGame](https://www.codingame.com)
 * [Coursera](https://www.coursera.org/)
