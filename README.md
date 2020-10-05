@@ -273,12 +273,15 @@ Please ensure your pull request adheres to the following guidelines:
 * [LevelUpTuts - React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 * [Rocketseat - ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI) :brazil:
 * [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
+* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ03qEsHn9zV4qdhcWtusBqb) :indonesia:
+
 
 ### React-Native
 
 * [CS50 - Mobile App Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
 * [Michael Nissen - React Native - Build An iPhone App From Scratch](https://www.youtube.com/playlist?list=PLH66a98tGFoA6pBg8MW-1ulu-CkCadmrZ)
+* [Tutorial React Native Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) :indonesia:
 
 ### Redux
 
