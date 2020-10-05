@@ -93,6 +93,7 @@ Thank you for your suggestions!
 * [Ben Awad](https://www.youtube.com/user/99baddawg)
 * [blondiebytes](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg)
 * [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg/)
+* [Codesmith](https://www.youtube.com/channel/UCAU_6P-M2VHKePIpu5736ag)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
