@@ -324,6 +324,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [JavaScript Succinctly](https://www.syncfusion.com/ebooks/javascript)
+* [You Don't Know JS - Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 
 ### Ruby
 
