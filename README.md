@@ -323,6 +323,7 @@ Please ensure your pull request adheres to the following guidelines:
 ### Javascript
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
+* [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/index.html)
 * [JavaScript Succinctly](https://www.syncfusion.com/ebooks/javascript)
 * [You Don't Know JS - Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * [You Don't Know JS - Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
