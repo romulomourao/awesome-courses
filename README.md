@@ -322,6 +322,7 @@ Please ensure your pull request adheres to the following guidelines:
 ### Javascript
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
+* [JavaScript Succinctly](https://www.syncfusion.com/ebooks/javascript)
 
 ### Ruby
 
