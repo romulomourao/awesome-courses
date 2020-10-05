@@ -152,6 +152,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) :brazil:
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [La Cocina del Código](https://www.youtube.com/c/LaCocinadelCódigo) :es:
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) :brazil:
