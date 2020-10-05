@@ -222,6 +222,10 @@ Thank you for your suggestions!
 * [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 * [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
 
+#### Svelte
+
+*[Learn the Svelte JavaScript Framework - Full Course](https://www.youtube.com/watch?v=ujbE0mzX-CU&t=682s&ab_channel=freeCodeCamp.org)
+
 #### Swift
 
 * [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
