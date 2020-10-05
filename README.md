@@ -267,6 +267,7 @@ Thank you for your suggestions!
 ### Youtube Channels
 
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli)
+* [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 * [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 
