@@ -130,6 +130,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## Blogs
 
+* [CSS Tricks](https://css-tricks.com/archives/)
 * [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 * [Willian Justen](https://willianjusten.com.br/) :brazil:
 
