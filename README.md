@@ -329,6 +329,8 @@ Please ensure your pull request adheres to the following guidelines:
 * [You Don't Know JS - Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * [You Don't Know JS - Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
-### Ruby
+### React
+ * [React Enlightenment](https://www.reactenlightenment.com/)
 
+### Ruby
 * [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
