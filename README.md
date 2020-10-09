@@ -330,6 +330,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
+* [Single page apps in depth](http://singlepageappbook.com/single-page.html)
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [You Don't Know JS - Get Started 2nd Ed.](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * [You Don't Know JS - Scope & Closures 2nd Ed.](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
