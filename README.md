@@ -324,6 +324,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/index.html)
+* [Human JavaScript](http://read.humanjavascript.com/)
 * [JavaScript Succinctly](https://www.syncfusion.com/ebooks/javascript)
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
