@@ -328,6 +328,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [JavaScript Succinctly](https://www.syncfusion.com/ebooks/javascript)
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Speaking JavaScript](http://speakingjs.com/es5/)
 * [You Don't Know JS - Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * [You Don't Know JS - Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
 
