@@ -322,6 +322,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Javascript
 
+* [DOM Enlightenment](http://domenlightenment.com/)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/index.html)
 * [Human JavaScript](http://read.humanjavascript.com/)
