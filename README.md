@@ -162,6 +162,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) :brazil:
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 
 
