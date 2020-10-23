@@ -155,6 +155,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [La Cocina del Código](https://www.youtube.com/c/LaCocinadelCódigo) :es:
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
+* [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) :brazil:
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
