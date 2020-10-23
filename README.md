@@ -148,6 +148,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners/)
 * [Fabio Vedovelli](https://www.youtube.com/user/vedovelli) :brazil:
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers)
