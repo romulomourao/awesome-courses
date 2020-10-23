@@ -40,6 +40,7 @@
   - [Books](#books)
     - [Git](#git)
     - [Javascript](#javascript-1)
+    - [React](#react-1)
     - [Ruby](#ruby-1)
 
 
@@ -118,6 +119,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Programiz](https://www.programiz.com/)
 * [SitePoint](https://www.sitepoint.com/)
 * [Sonar Learning](http://www.sonarlearning.co.uk/)
+* [Spoj](https://www.spoj.com/)
 * [Tania Rascia's Tutorials](https://www.taniarascia.com/blog/)
 * [Traversy Media](https://www.traversymedia.com/)
 * [Treehouse](https://teamtreehouse.com/)
