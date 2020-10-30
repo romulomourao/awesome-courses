@@ -99,6 +99,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Frontend Masters](https://frontendmasters.com/)
 * [Future Learn](https://www.futurelearn.com)
+* [FullCycle](https://fullcycle.com.br/) :brazil:
 * [Grok Learning](https://www.groklearning.com)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
