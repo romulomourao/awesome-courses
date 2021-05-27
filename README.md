@@ -11,7 +11,7 @@
   - [Youtube Playlists](#youtube-playlists)
     - [Android](#android)
     - [Angular](#angular)
-    - [C](#c)
+    - [C#](#c)
     - [CSS](#css)
     - [Docker](#docker)
     - [EcmaScript (ES)](#ecmascript-es)
