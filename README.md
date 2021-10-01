@@ -210,11 +210,10 @@ Please ensure your pull request adheres to the following guidelines:
 * [Codecasts - Introdução ao Firebase](https://www.youtube.com/watch?v=cVu-zJyDVzw&list=PLy5T05I_eQYPqGy_SoqZ1VGrJMwo_duok) :brazil:
 
 ### Flutter
-
-* [Flutter.io](https://flutter.io/tutorials/)
 * [Academind - Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 * [Bram Vanbilsen - Flutter Crash Course - Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE)
-
+* [Ben Award - Flutter](https://www.youtube.com/playlist?list=PLN3n1USn4xlmO_0L_x12YDnpZTlI5uzaT)
+* [Flutter.io](https://flutter.io/tutorials/)
 
 ### GitHub
 
