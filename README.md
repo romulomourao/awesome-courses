@@ -112,9 +112,9 @@ Please ensure your pull request adheres to the following guidelines:
 * [Lynda.com](https://www.lynda.com/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
-* [Online Courses](www.onlinecourses.com)
+* [Online Courses](https://www.onlinecourses.com/)
 * [Open Culture](http://www.openculture.com)
-* [Open Source Society University](ossu.firebaseapp.co)
+* [Open Source Society University](https://ossu.firebaseapp.com)
 * [Origamid](https://www.origamid.com/) :brazil:
 * [Pluralsight](https://www.pluralsight.com/)
 * [Programiz](https://www.programiz.com/)
@@ -256,6 +256,11 @@ Please ensure your pull request adheres to the following guidelines:
 * [Derek Banas - Learn to Program](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+* [MIT 6 0001 - Introduction to Computer Science and Programming in Python (2016)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+* [Python Workshop by Shayan Fahimi](https://shfahimi.net/Python-Workshop/)
+* [Learn By Example - Python Basics](https://learnbyexample.gitbooks.io/python-basics/)
+* [Python Code Katas](http://codekata.com)
+
 
 ### Design Patterns in Object Oriented Programming
 
@@ -331,6 +336,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Javascript
 
+* [SilentTeacher](https://silentteacher.toxicode.fr) : online educational game to learn JS basics
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/index.html)
@@ -343,6 +349,11 @@ Please ensure your pull request adheres to the following guidelines:
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [You Don't Know JS - Get Started 2nd Ed.](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
 * [You Don't Know JS - Scope & Closures 2nd Ed.](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
+
+### Python
+
+* [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
+* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
 
 ### React
  * [React Enlightenment](https://www.reactenlightenment.com/)
