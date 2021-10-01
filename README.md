@@ -107,6 +107,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Hackr.io](https://hackr.io/)
 * [Hacksplaining](https://www.hacksplaining.com/)
 * [Interviewbit](https://www.interviewbit.com/)
+* [Just Javascript](https://justjavascript.com/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Leetcode](https://leetcode.com/)
 * [Linux Academy](https://linuxacademy.com/)
