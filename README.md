@@ -5,27 +5,28 @@
 - [Awesome Courses](#awesome-courses)
   - [Table of Contents](#table-of-contents)
   - [Contribution Guidelines](#contribution-guidelines)
-  - [Websites](#websites)
-  - [Blogs](#blogs)
-  - [Youtube Channels](#youtube-channels)
-  - [Youtube Playlists](#youtube-playlists)
+  - [:globe_with_meridians: Websites](#globe_with_meridians-websites)
+  - [:page_facing_up: Blogs](#page_facing_up-blogs)
+  - [:movie_camera: Youtube Channels](#movie_camera-youtube-channels)
+  - [:movie_camera: Youtube Playlists](#movie_camera-youtube-playlists)
     - [Android](#android)
     - [Angular](#angular)
-    - [C#](#c)
+    - [C](#c)
     - [CSS](#css)
-    - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
     - [Docker](#docker)
     - [EcmaScript (ES)](#ecmascript-es)
     - [Firebase](#firebase)
     - [Flutter](#flutter)
-    - [Game Development](#game-development)
-    - [Graphql](#graphql)
     - [GitHub](#github)
     - [Gulp](#gulp)
     - [Javascript](#javascript)
+    - [Java](#java)
     - [JQuery](#jquery)
     - [Node.js](#nodejs)
     - [Python](#python)
+    - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
+    - [Game Development](#game-development)
+    - [Graphql](#graphql)
     - [Ruby](#ruby)
     - [Ruby on Rails](#ruby-on-rails)
     - [React](#react)
@@ -38,9 +39,11 @@
     - [Vue](#vue)
     - [Vuex](#vuex)
     - [Webpack](#webpack)
-  - [Books](#books)
+  - [:books: Books](#books-books)
     - [Git](#git)
+    - [Java](#java-1)
     - [Javascript](#javascript-1)
+    - [Python](#python-1)
     - [React](#react-1)
     - [Ruby](#ruby-1)
 
@@ -72,7 +75,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 **Thank you for your suggestions!**
 
-## Websites
+## :globe_with_meridians: Websites
 
 * [A Cloud Guru](https://acloud.guru)
 * [Alura](https://www.alura.com.br/) :brazil:
@@ -133,13 +136,13 @@ Please ensure your pull request adheres to the following guidelines:
 * [W3schools](https://www.w3schools.com/)
 
 
-## Blogs
+## :page_facing_up: Blogs
 
 * [CSS Tricks](https://css-tricks.com/archives/)
 * [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 * [Willian Justen](https://willianjusten.com.br/) :brazil:
 
-## Youtube Channels
+## :movie_camera: Youtube Channels
 
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 * [Ben Awad](https://www.youtube.com/user/99baddawg)
@@ -170,7 +173,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 
 
-## Youtube Playlists
+## :movie_camera: Youtube Playlists
 
 ### Android
 
@@ -239,6 +242,20 @@ Please ensure your pull request adheres to the following guidelines:
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 * [Willian Justen - Mini-curso de TypeScript](https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) :brazil:
 
+### Java
+
+* [Official Java channel](https://www.youtube.com/user/java/playlists)
+* [Adam Bien tutorials](https://www.youtube.com/user/bienadam/playlists)
+* [Thoughts on Java](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw/playlists)
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists)
+* [virtual Java User Group](https://www.youtube.com/user/virtualJUG/playlists)
+* [Sebastian Daschner](https://www.youtube.com/channel/UCG21GE2Go3vkj7mrs675ysA/playlists)
+* [InfoQ](https://www.youtube.com/user/MarakanaTechTV/playlists)
+* [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV/playlists)
+* [Spring Developer](https://www.youtube.com/user/SpringSourceDev/playlists)
+* [SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w/playlists) :brazil: 
+* [JavaMeetupSP](https://www.youtube.com/channel/UCjQtPPwMApg6mjEX-6wiXwA/playlists) :brazil: 
+* [Loiane Groner](https://www.youtube.com/c/loianegroner/playlists) :brazil: 
 
 ### JQuery
 
@@ -336,11 +353,20 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Academind - Webpack 2 Basics](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
 
-## Books
+## :books: Books
 
 ### Git
 
 * [Pro Git](https://git-scm.com/book/pt-br/v1) :brazil:
+
+### Java
+
+* [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
+* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) :brazil:
+* [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/) :brazil:
+* [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava6/html/index.html)
+* [Effetive Java](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
+* [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
 
 ### Javascript
 
