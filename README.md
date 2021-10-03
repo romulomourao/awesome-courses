@@ -142,6 +142,7 @@ Please ensure your pull request adheres to the following guidelines:
 ## Youtube Channels
 
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+* [Auth0](https://www.youtube.com/channel/UCUlQ5VoIzE_kFbYjzUwHTKA)
 * [Ben Awad](https://www.youtube.com/user/99baddawg)
 * [blondiebytes](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg)
 * [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg/)
@@ -158,11 +159,13 @@ Please ensure your pull request adheres to the following guidelines:
 * [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw) :brazil:
 * [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Jason Lengstorf](https://www.youtube.com/channel/UCnty0z0pNRDgnuoirYXnC5A)
 * [La Cocina del Código](https://www.youtube.com/c/LaCocinadelCódigo) :es:
 * [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 * [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/featured)
 * [ProgrammingKnowledge](https://www.youtube.com/c/ProgrammingKnowledge)
 * [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) :brazil:
+* [Sanity](https://www.youtube.com/channel/UCGz69JwGRptteFAaX8hSKCQ)
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
