@@ -175,8 +175,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 
 
-
-## :movie_camera: Youtube Playlists
+## :arrow_forward: Youtube Playlists
 
 ### Android
 
