@@ -142,7 +142,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Smashing Magazine](https://www.smashingmagazine.com/articles/)
 * [Willian Justen](https://willianjusten.com.br/) :brazil:
 
-## :movie_camera: Youtube Channels
+## :tv: Youtube Channels
 
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 * [Auth0](https://www.youtube.com/channel/UCUlQ5VoIzE_kFbYjzUwHTKA)
