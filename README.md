@@ -173,6 +173,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
+* [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 
 ## :arrow_forward: Youtube Playlists
@@ -315,6 +316,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [LevelUpTuts - React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 * [Rocketseat - ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI) :brazil:
 * [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
+* [Web Dev Simplified - React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 
 ### React-Native
 
