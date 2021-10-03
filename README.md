@@ -317,6 +317,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [LevelUpTuts - React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 * [Rocketseat - ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI) :brazil:
 * [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
+* [Web Dev Simplified - React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 
 ### React-Native
 * [Ben Awad - React Native Web Series](https://www.youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn)
