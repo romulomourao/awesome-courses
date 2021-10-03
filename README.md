@@ -296,7 +296,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Graphql
 
-* [Ben Award - Stripe GraphQL](https://www.youtube.com/playlist?list=PLN3n1USn4xllF5t1GZhEwFQNDnStgupdB)
+* [Ben Awad - Stripe GraphQL](https://www.youtube.com/playlist?list=PLN3n1USn4xllF5t1GZhEwFQNDnStgupdB)
 
 ### Ruby
 
@@ -312,13 +312,13 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Academind - ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
 * [Awais Mirza - React JS Tutorial for beginners 2017](https://www.youtube.com/playlist?list=PLz5rnvLVJX5XUcGdV0qOyHiFo9l_iyuij)
-* [Ben Award - React Hooks Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
+* [Ben Awad - React Hooks Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 * [LevelUpTuts - React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 * [Rocketseat - ReactJS](https://www.youtube.com/watch?v=7A4UQGrFU9Q&list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI) :brazil:
 * [The Net Ninja - React Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR)
 
 ### React-Native
-* [Ben Award - React Native Web Series](https://www.youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn)
+* [Ben Awad - React Native Web Series](https://www.youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn)
 * [CS50 - Mobile App Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
 * [Michael Nissen - React Native - Build An iPhone App From Scratch](https://www.youtube.com/playlist?list=PLH66a98tGFoA6pBg8MW-1ulu-CkCadmrZ)
