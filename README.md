@@ -24,6 +24,7 @@
     - [JQuery](#jquery)
     - [Node.js](#nodejs)
     - [Python](#python)
+    - [Django](#django)
     - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
     - [Game Development](#game-development)
     - [Graphql](#graphql)
@@ -272,6 +273,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Academind - Node.js Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
 * [Rocketseat - NodeJS](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) :brazil:
 * [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy) :brazil:
+* [Fazt - Nodejs Curso Desde Cero, para principiantes](https://youtu.be/BhvLIzVL8_o) :es:
 
 ### Python
 
@@ -284,6 +286,9 @@ Please ensure your pull request adheres to the following guidelines:
 * [Python Workshop by Shayan Fahimi](https://shfahimi.net/Python-Workshop/)
 * [Learn By Example - Python Basics](https://learnbyexample.gitbooks.io/python-basics/)
 * [Python Code Katas](http://codekata.com)
+
+### Django
+* [Corey Schafer - Django Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 
 ### Design Patterns in Object Oriented Programming
@@ -324,6 +329,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [CS50 - Mobile App Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
 * [Michael Nissen - React Native - Build An iPhone App From Scratch](https://www.youtube.com/playlist?list=PLH66a98tGFoA6pBg8MW-1ulu-CkCadmrZ)
+* [Udemy](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
 
 ### Redux
 
