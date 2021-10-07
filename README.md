@@ -113,7 +113,6 @@ Please ensure your pull request adheres to the following guidelines:
 * [Just Javascript](https://justjavascript.com/)
 * [Khan Academy](https://www.khanacademy.org/)
 * [Leetcode](https://leetcode.com/)
-* [Linux Academy](https://linuxacademy.com/)
 * [Lynda.com](https://www.lynda.com/)
 * [Microsoft Virtual Academy](https://mva.microsoft.com)
 * [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
@@ -220,8 +219,7 @@ Please ensure your pull request adheres to the following guidelines:
 ### Flutter
 * [Academind - Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 * [Bram Vanbilsen - Flutter Crash Course - Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE)
-* [Ben Award - Flutter](https://www.youtube.com/playlist?list=PLN3n1USn4xlmO_0L_x12YDnpZTlI5uzaT)
-* [Flutter.io](https://flutter.io/tutorials/)
+* [Ben Awad - Flutter](https://www.youtube.com/playlist?list=PLN3n1USn4xlmO_0L_x12YDnpZTlI5uzaT)
 
 ### GitHub
 
