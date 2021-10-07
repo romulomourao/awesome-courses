@@ -13,20 +13,20 @@
     - [Angular](#angular)
     - [C](#c)
     - [CSS](#css)
+    - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
     - [Docker](#docker)
     - [EcmaScript (ES)](#ecmascript-es)
     - [Firebase](#firebase)
     - [Flutter](#flutter)
     - [GitHub](#github)
     - [Gulp](#gulp)
-    - [Javascript](#javascript)
     - [Java](#java)
+    - [Javascript](#javascript)
     - [JQuery](#jquery)
     - [Node.js](#nodejs)
-    - [Python](#python)
-    - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
     - [Game Development](#game-development)
     - [Graphql](#graphql)
+    - [Python](#python)
     - [Ruby](#ruby)
     - [Ruby on Rails](#ruby-on-rails)
     - [React](#react)
@@ -102,8 +102,8 @@ Please ensure your pull request adheres to the following guidelines:
 * [EXLskills](https://exlskills.com/)
 * [Free Code Camp](https://www.freecodecamp.org/)
 * [Frontend Masters](https://frontendmasters.com/)
-* [Future Learn](https://www.futurelearn.com)
 * [FullCycle](https://fullcycle.com.br/) :brazil:
+* [Future Learn](https://www.futurelearn.com)
 * [Grok Learning](https://www.groklearning.com)
 * [Hacker Rank](https://www.hackerrank.com/)
 * [HackerEarth](https://www.hackerearth.com/)
@@ -151,8 +151,8 @@ Please ensure your pull request adheres to the following guidelines:
 * [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg/)
 * [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
 * [Codesmith](https://www.youtube.com/channel/UCAU_6P-M2VHKePIpu5736ag)
-* [Código Fonte TV](https://www.youtube.com/user/codigofontetv) :brazil:
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [Código Fonte TV](https://www.youtube.com/user/codigofontetv) :brazil:
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
@@ -176,7 +176,6 @@ Please ensure your pull request adheres to the following guidelines:
 * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
 
 
-
 ## :arrow_forward: Youtube Playlists
 
 ### Android
@@ -187,9 +186,9 @@ Please ensure your pull request adheres to the following guidelines:
 ### Angular
 
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
-* [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
 * [Loiane Groner - Curso de Angular](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) :brazil:
 * [Michelli Brito - Curso Angular 9](https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q) :brazil:
+* [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
 
 ### C#
 
@@ -248,18 +247,18 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Java
 
-* [Official Java channel](https://www.youtube.com/user/java/playlists)
 * [Adam Bien tutorials](https://www.youtube.com/user/bienadam/playlists)
-* [Thoughts on Java](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw/playlists)
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/playlists)
-* [virtual Java User Group](https://www.youtube.com/user/virtualJUG/playlists)
-* [Sebastian Daschner](https://www.youtube.com/channel/UCG21GE2Go3vkj7mrs675ysA/playlists)
 * [InfoQ](https://www.youtube.com/user/MarakanaTechTV/playlists)
-* [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV/playlists)
-* [Spring Developer](https://www.youtube.com/user/SpringSourceDev/playlists)
-* [SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w/playlists) :brazil: 
 * [JavaMeetupSP](https://www.youtube.com/channel/UCjQtPPwMApg6mjEX-6wiXwA/playlists) :brazil: 
+* [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV/playlists)
 * [Loiane Groner](https://www.youtube.com/c/loianegroner/playlists) :brazil: 
+* [Official Java channel](https://www.youtube.com/user/java/playlists)
+* [Sebastian Daschner](https://www.youtube.com/channel/UCG21GE2Go3vkj7mrs675ysA/playlists)
+* [SouJava](https://www.youtube.com/channel/UCH0qj1HFZ9jy0w87YfMSA7w/playlists) :brazil: 
+* [Spring Developer](https://www.youtube.com/user/SpringSourceDev/playlists)
+* [Thoughts on Java](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw/playlists)
+* [virtual Java User Group](https://www.youtube.com/user/virtualJUG/playlists)
 
 ### JQuery
 
@@ -277,13 +276,13 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Awais Mirza - Python tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VUdTKFlqGX7uF1uH1Yps6Y)
 * [Derek Banas - Learn to Program](https://www.youtube.com/watch?v=nwjAHQERL08&list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
-* [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
-* [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+* [Learn By Example - Python Basics](https://learnbyexample.gitbooks.io/python-basics/)
 * [MIT 6 0001 - Introduction to Computer Science and Programming in Python (2016)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Programming with Mosh - Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=11867s)
-* [Python Workshop by Shayan Fahimi](https://shfahimi.net/Python-Workshop/)
-* [Learn By Example - Python Basics](https://learnbyexample.gitbooks.io/python-basics/)
 * [Python Code Katas](http://codekata.com)
+* [Python Workshop by Shayan Fahimi](https://shfahimi.net/Python-Workshop/)
+* [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+* [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
 
 ### Design Patterns in Object Oriented Programming
@@ -320,6 +319,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Web Dev Simplified - React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
 
 ### React-Native
+
 * [Ben Awad - React Native Web Series](https://www.youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn)
 * [CS50 - Mobile App Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
@@ -331,8 +331,9 @@ Please ensure your pull request adheres to the following guidelines:
 * [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 
 ### Golang
-* [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
+
 * [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
+* [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 
 ### Svelte
 
@@ -366,16 +367,15 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Java
 
-* [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
-* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) :brazil:
-* [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/) :brazil:
-* [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava6/html/index.html)
 * [Effetive Java](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997)
 * [Head First Java](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208)
+* [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/) :brazil:
+* [Java para Desenvolvimento Web](https://www.caelum.com.br/apostila-java-web/) :brazil:
+* [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book/)
+* [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/thinkjava6/html/index.html)
 
 ### Javascript
 
-* [SilentTeacher](https://silentteacher.toxicode.fr) : online educational game to learn JS basics
 * [DOM Enlightenment](http://domenlightenment.com/)
 * [Eloquent JavaScript](https://eloquentjavascript.net/)
 * [Exploring ES2016 and ES2017](https://exploringjs.com/es2016-es2017/index.html)
@@ -384,6 +384,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
+* [SilentTeacher](https://silentteacher.toxicode.fr) : online educational game to learn JS basics
 * [Single page apps in depth](http://singlepageappbook.com/single-page.html)
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [You Don't Know JS - Get Started 2nd Ed.](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
@@ -395,7 +396,9 @@ Please ensure your pull request adheres to the following guidelines:
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
 
 ### React
+
  * [React Enlightenment](https://www.reactenlightenment.com/)
 
 ### Ruby
+
 * [Michael Hartl - Ruby On Rails Tutorial](https://www.railstutorial.org/book)
