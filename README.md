@@ -92,6 +92,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Codeplace](https://www.codeplace.com/)
 * [Codewars](https://www.codewars.com/)
 * [CodinGame](https://www.codingame.com)
+* [Collecobrary](https://curated-courses.herokuapp.com/)
 * [Coursera](https://www.coursera.org/)
 * [CSS Tricks](https://css-tricks.com/)
 * [Dash](https://dash.generalassemb.ly/)
