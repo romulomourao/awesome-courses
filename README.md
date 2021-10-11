@@ -170,6 +170,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Sanity](https://www.youtube.com/channel/UCGz69JwGRptteFAaX8hSKCQ)
 * [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
 * [The Coding Train](https://www.youtube.com/user/shiffman)
+* [TechWorld with Nana](https://www.youtube.com/c/TechWorldwithNana)
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 * [Treehouse](https://www.youtube.com/user/gotreehouse)
 * [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
