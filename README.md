@@ -296,6 +296,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Graphql
 
+* [Academind - Build a Project with GraphQL, Node, MongoDB and React.js](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_)
 * [Ben Awad - Stripe GraphQL](https://www.youtube.com/playlist?list=PLN3n1USn4xllF5t1GZhEwFQNDnStgupdB)
 
 ### Ruby
