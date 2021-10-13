@@ -27,6 +27,7 @@
     - [Game Development](#game-development)
     - [Graphql](#graphql)
     - [Python](#python)
+    - [Regex](#regex)
     - [Ruby](#ruby)
     - [Ruby on Rails](#ruby-on-rails)
     - [React](#react)
@@ -297,6 +298,10 @@ Please ensure your pull request adheres to the following guidelines:
 ### Graphql
 
 * [Ben Awad - Stripe GraphQL](https://www.youtube.com/playlist?list=PLN3n1USn4xllF5t1GZhEwFQNDnStgupdB)
+
+### Regex
+
+* [Academind - Regular Expressions Demystified](https://www.youtube.com/playlist?list=PL55RiY5tL51ryV3MhCbH8bLl7O_RZGUUE)
 
 ### Ruby
 
