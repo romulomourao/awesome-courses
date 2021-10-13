@@ -184,6 +184,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Angular
 
+* [Academind - Angular 6 & RxJS 6](https://www.youtube.com/playlist?list=PL55RiY5tL51rVUDwCCUenDe4sEuw5RtsI)
 * [Awais Mirza - Angular 4 tutorial for beginners](https://www.youtube.com/playlist?list=PLz5rnvLVJX5VQZdTz4MTE52aKto-MoPwB)
 * [Loiane Groner - Curso de Angular](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) :brazil:
 * [Michelli Brito - Curso Angular 9](https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q) :brazil:
