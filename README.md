@@ -267,6 +267,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### Node.js
 
+* [Academind - Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
 * [Academind - Node.js Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
 * [Rocketseat - NodeJS](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) :brazil:
 * [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy) :brazil:
