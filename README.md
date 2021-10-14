@@ -392,7 +392,6 @@ Please ensure your pull request adheres to the following guidelines:
 * [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/books/javascript-enlightenment/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript)
-* [SilentTeacher](https://silentteacher.toxicode.fr) : online educational game to learn JS basics
 * [Single page apps in depth](http://singlepageappbook.com/single-page.html)
 * [Speaking JavaScript](http://speakingjs.com/es5/)
 * [Tackling TypeScript](https://exploringjs.com/tackling-ts/toc.html)
