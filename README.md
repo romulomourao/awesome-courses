@@ -222,6 +222,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [Academind - Flutter Tutorial for Beginners](https://www.youtube.com/watch?v=GLSG_Wh_YWc)
 * [Bram Vanbilsen - Flutter Crash Course - Building a Complete App From Scratch](https://www.youtube.com/watch?v=jBBl1tYkUnE)
 * [Ben Awad - Flutter](https://www.youtube.com/playlist?list=PLN3n1USn4xlmO_0L_x12YDnpZTlI5uzaT)
+* [The Net Ninja - Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
 ### GitHub
 
