@@ -78,6 +78,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ## :globe_with_meridians: Websites
 
+* [free books](https://books.goalkicker.com/)
 * [A Cloud Guru](https://acloud.guru)
 * [Alura](https://www.alura.com.br/) :brazil:
 * [Alison](https://alison.com)
