@@ -244,6 +244,9 @@ Please ensure your pull request adheres to the following guidelines:
 * [Rodrigo Branas - Desvendando a linguagem Javascript](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc) :brazil:
 * [The Net Ninja - JavaScript Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 * [Willian Justen - Mini-curso de TypeScript](https://www.youtube.com/watch?v=mRixno_uE2o&list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) :brazil:
+* [Akshay Saini - Namaste 🙏 JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+
+
 
 ### Java
 
