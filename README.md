@@ -41,6 +41,7 @@
     - [Vuex](#vuex)
     - [Webpack](#webpack)
   - [:books: Books](#books-books)
+    - [Game Development](#game-development)
     - [Git](#git)
     - [Java](#java-1)
     - [Javascript](#javascript-1)
@@ -366,6 +367,10 @@ Please ensure your pull request adheres to the following guidelines:
 * [Academind - Webpack 2 Basics](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
 
 ## :books: Books
+
+### Game Development
+
+* [Unity 5.x Game Development Blueprints](https://github.com/PacktPublishing/Unity-5.x-Game-Development-Blueprints)
 
 ### Git
 
