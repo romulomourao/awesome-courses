@@ -15,6 +15,7 @@
     - [CSS](#css)
     - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
     - [Docker](#docker)
+    - [Django](#django)
     - [EcmaScript (ES)](#ecmascript-es)
     - [Firebase](#firebase)
     - [Flutter](#flutter)
@@ -209,6 +210,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Rocketseat - Docker](https://www.youtube.com/watch?v=AVNADGzXrrQ&list=PL85ITvJ7FLojBAbkjBKs14ghxyqh-OHYj) :brazil:
 
+### Django
+* [Corey Schafer - Django Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 
 ### EcmaScript (ES)
 
@@ -270,6 +273,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [Academind - Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
 * [Academind - Node.js Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR)
+* [Fazt - Nodejs Curso Desde Cero, para principiantes](https://youtu.be/BhvLIzVL8_o) :es:
 * [Rocketseat - NodeJS](https://www.youtube.com/watch?v=aysgHRmzG3w&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) :brazil:
 * [Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/playlist?list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy) :brazil:
 
@@ -284,7 +288,6 @@ Please ensure your pull request adheres to the following guidelines:
 * [Python Workshop by Shayan Fahimi](https://shfahimi.net/Python-Workshop/)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-
 
 ### Design Patterns in Object Oriented Programming
 
@@ -330,6 +333,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [CS50 - Mobile App Development with React Native](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR)
 * [Michael Nissen - React Native Tutorials](https://www.youtube.com/playlist?list=PLH66a98tGFoBawtmawLRtWSCI1iEKl3Dj)
 * [Michael Nissen - React Native - Build An iPhone App From Scratch](https://www.youtube.com/playlist?list=PLH66a98tGFoA6pBg8MW-1ulu-CkCadmrZ)
+* [Udemy](https://www.udemy.com/course/the-complete-react-native-and-redux-course/)
 
 ### Redux
 
