@@ -195,6 +195,7 @@ Please ensure your pull request adheres to the following guidelines:
 ### C#
 
 * [Derek Banas - C# Tutorial](https://www.youtube.com/watch?v=0p0JLFZj2C8&list=PLGLfVvz_LVvRX6xK1oi0reKci6ignjdSa)
+* [W3Schools - C# Tutorial](https://www.w3schools.com/cs/index.php)
 
 ### CSS
 
