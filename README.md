@@ -281,6 +281,7 @@ Please ensure your pull request adheres to the following guidelines:
 * [MIT 6 0001 - Introduction to Computer Science and Programming in Python (2016)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 * [Programming with Mosh - Python Tutorial - Python for Beginners [Full Course]](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=11867s)
 * [Python Code Katas](http://codekata.com)
+* [Python for Data Science and Analytics Tutorial Series by Tomi Mester - Data36](https://www.youtube.com/playlist?list=PLHS1p0ot3SVj5KMsvPBihB7JdEOox4Z-d)
 * [Python Workshop by Shayan Fahimi](https://shfahimi.net/Python-Workshop/)
 * [Sentdex - Python 3 Basics Tutorial Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 * [thenewboston - Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
