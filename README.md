@@ -19,6 +19,7 @@
     - [Firebase](#firebase)
     - [Flutter](#flutter)
     - [GitHub](#github)
+    - [Golang](#golang)
     - [Gulp](#gulp)
     - [Java](#java)
     - [Javascript](#javascript)
@@ -33,7 +34,6 @@
     - [React](#react)
     - [React-Native](#react-native)
     - [Redux](#redux)
-    - [Golang](#golang)
     - [Svelte](#svelte)
     - [Swift](#swift)
     - [Unity](#unity)
@@ -230,6 +230,11 @@ Please ensure your pull request adheres to the following guidelines:
 * [DevTips - GitHubs for Noobs](https://www.youtube.com/watch?v=1h9_cB9mPT8&list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
 * [The Net Ninja - Git & GitHub Tutorial for Beginnerss](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
+### Golang
+
+* [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
+* [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
+
 
 ### Gulp
 
@@ -339,11 +344,6 @@ Please ensure your pull request adheres to the following guidelines:
 
 * [CodeWithTim - Redux Made Easy](https://www.youtube.com/playlist?list=PLoAsubXIl8uKWBxNNZL_-OuXtcu82-aFN)
 * [LearnCode.academy - Redux Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
-
-### Golang
-
-* [Learn To Code - Golang Training](https://www.youtube.com/watch?v=nCrOuyt3fGE&list=PLSak_q1UXfPrI6D67NF8ajfeJ6f7MH83S)
-* [Learn To Code - Golang Tutorial](https://www.youtube.com/watch?v=6lBeN973T4Q&list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ)
 
 ### Svelte
 
