@@ -36,6 +36,7 @@
     - [Redux](#redux)
     - [Svelte](#svelte)
     - [Swift](#swift)
+    - [Typescript](#typescript)
     - [Unity](#unity)
     - [Vue](#vue)
     - [Vuex](#vuex)
@@ -343,6 +344,10 @@ Please ensure your pull request adheres to the following guidelines:
 ### Swift
 
 - [Code with Chris - Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
+
+### Typescript
+
+- [The Net Ninja - Typescript Tutorial](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
 
 ### Unity
 
