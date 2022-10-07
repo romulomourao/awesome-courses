@@ -191,6 +191,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 ### AWS
 - [Academind - AWS in Action](https://www.youtube.com/watch?v=hNKHa7r2iOs&list=PL55RiY5tL51rudermnWTq1LlGC1BL1g3l)
+- [freeCodeCamp - AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
 
 ### C#
 
