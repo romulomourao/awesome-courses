@@ -11,6 +11,7 @@
   - [:arrow_forward: Youtube Playlists](#arrow_forward-youtube-playlists)
     - [Android](#android)
     - [Angular](#angular)
+    - [AWS](#aws)
     - [C#](#c)
     - [CSS](#css)
     - [Design Patterns in Object Oriented Programming](#design-patterns-in-object-oriented-programming)
@@ -187,6 +188,9 @@ Please ensure your pull request adheres to the following guidelines:
 - [Loiane Groner - Curso de Angular](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G) :brazil:
 - [Michelli Brito - Curso Angular 9](https://www.youtube.com/playlist?list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q) :brazil:
 - [The Net Ninja - AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v)
+
+### AWS
+- [Academind - AWS in Action](https://www.youtube.com/watch?v=hNKHa7r2iOs&list=PL55RiY5tL51rudermnWTq1LlGC1BL1g3l)
 
 ### C#
 
