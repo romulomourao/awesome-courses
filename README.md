@@ -174,6 +174,7 @@ Please ensure your pull request adheres to the following guidelines:
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [Treehouse](https://www.youtube.com/user/gotreehouse)
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [Kunal Kushwaha](https://www.youtube.com/KunalKushwaha)
 
 ## :arrow_forward: Youtube Playlists
 
@@ -371,6 +372,10 @@ Please ensure your pull request adheres to the following guidelines:
 ### Webpack
 
 - [Academind - Webpack 2 Basics](https://www.youtube.com/watch?v=GU-2T7k9NfI&list=PL55RiY5tL51rcCnrOrZixuOsZhAHHy6os)
+
+### DevOps
+
+- [DevOps Bootcamp](https://www.youtube.com/watch?v=ZbG0c87wcM8&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak)
 
 ## :books: Books
 
