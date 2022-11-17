@@ -413,6 +413,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - [Learn Python The Hard Way](https://learnpythonthehardway.org/book/)
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/?utm_source=devfreebooks&utm_medium=medium&utm_campaign=DevFreeBooks)
+- [Learn Python Programming](https://www.scaler.com/topics/python/)
 
 ### React
 
